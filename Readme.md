@@ -2,6 +2,6 @@
 
 Install
 
-	git clone
-	cd 
+	git clone https://github.com/mhcrnl/01_salut_gtk.git
+	cd 01_salut_gtk
 	./run.sh
